@@ -1,4 +1,4 @@
-# 
+# automatic isolated-margin trading bot | futures-arbitrage + position-sizing is the best isolated-margin trading bot, featuring futures-arbitrage and position-sizing. Smart, fast,
 
 
 
